@@ -1,0 +1,1 @@
+(dices, sides) => Array(1e6).fill().reduce(n => n + Math.max(...Array(dices).fill().map(() => Math.floor(Math.random() * sides) + 1)), 0) / 1e6;
