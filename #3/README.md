@@ -1,4 +1,4 @@
-## Ny nöt @Programmeringsnöten
+## Ny nöt `@Programmeringsnöten`
 
 ## Skriv ett program som blandar en kortlek. Korten visas med [F]ärg och [V]alör såhär [FV], spader fyra är alltså S4 och hjärter kung är HK (knekt är litet k, kung är stort K).
 
@@ -9,6 +9,6 @@ Tagga mig om ni har frågor om nöten
 
 Valfritt språk, som vanligt.
 
-Postar ni en fungerande lösning i 🌰│nötsvaren  får ni (om ni vill) en shoutout på min TikTok och Instagram, skicka PM i så fall.
+Postar ni en fungerande lösning i `#🌰│nötsvaren` får ni (om ni vill) en shoutout på min TikTok och Instagram, skicka PM i så fall.
 
 Tips: Använd Google mycket. Sök upp hur ni använder arrayer / listor och hur ni slumpar tal för att kunna blanda kortleken

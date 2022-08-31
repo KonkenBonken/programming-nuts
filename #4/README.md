@@ -1,8 +1,8 @@
-@Programmeringsnöten
+`@Programmeringsnöten`
 
 ## Dags för en ny utmaning.
 
-Postar ni en fungerande lösning i 🌰│nötsvaren  får ni (om ni vill) en shoutout på min TikTok och Instagram, skicka PM i så fall.
+Postar ni en fungerande lösning i `#🌰│nötsvaren` får ni (om ni vill) en shoutout på min TikTok och Instagram, skicka PM i så fall.
 
 ### Skriv ett program där användaren får mata in två tal antal tärningar och tärningssidor och som sedan kastar tärningar baserat på vad användaren matade in.
 
