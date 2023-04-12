@@ -1,20 +1,16 @@
 def max(fn):
     x = -1e15
-    y = fn(x)
+    last = fn(x)
     step = 1e15
-    for _ in range(15):
-        while fn(x+step) > y:
+    for _ in range(30):
+        while True:
             x += step
             y = fn(x)
-        x += step
-        y = fn(x)
-        step /= 10
-        while fn(x-step) > y:
-            x -= step
-            y = fn(x)
-        x -= step
-        y = fn(x)
-        step /= 10
+            if y < last:
+                break
+            last = y
+        last = y
+        step /= -10
     return round(x, 4)
 
 
