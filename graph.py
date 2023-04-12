@@ -2,7 +2,7 @@ def max(fn):
     x = -1e15
     last = fn(x)
     step = 1e15
-    for _ in range(30):
+    while abs(step) > 1e-15:
         while True:
             x += step
             y = fn(x)
