@@ -1,5 +1,5 @@
 def isPalindrome(string: str):
-    return string == ''.join(reversed(string))
+    return string == string[::-1]
 
 
 assert isPalindrome("hello") == False
